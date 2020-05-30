@@ -5,7 +5,7 @@ This is a competition project has been done in fulfillment to the completion of 
 
 The project objective is to build a hybrid recommendation engine by mixing recommendations from content-based filtering, user-based and item-based collaborative filtering recommendation models.
 
-**In this project, all the Data Mining and recommendation algorithms are implemented without using any library**. Coding and implementing the algorithms without using libraries helps us in better understanding of them and use the algorithms as per our input data and requirements.
+**In this project, all the Data Mining and recommendation algorithms are implemented without using any library from scratch**. Coding and implementing the algorithms without using libraries helps us in better understanding of them and use the algorithms as per our input data and requirements.
 
 **This project stood at third place in a class of 120 students at Data Mining class Spring 2020 and the rankings are given as per RMSE.** 
 
