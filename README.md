@@ -56,7 +56,7 @@ coming
 
 
 
-## ** Content-based recommendation system:**
+## **Content-based recommendation system:**
 
 In this task, we build a content-based recommendation system by generating profiles from review
 texts for users and businesses in the train review set. Then I use the system/model to predict if a
