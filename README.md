@@ -93,7 +93,7 @@ considering their rating scores . This process reduced the number of user pairs 
 
 ## **Result:**
 
-This recommendation engine predicted user rating on certain business with an rmse of 1.17269 on test dataset and 1.17078 on blind dataset.
+This recommendation engine predicted user ratings on certain business with an rmse of 1.17269 on test dataset and 1.17078 on blind dataset.
 
 
 
