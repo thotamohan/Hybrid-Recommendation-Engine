@@ -91,7 +91,11 @@ system. You need to
 considering their rating scores . This process reduced the number of user pairs we need to compare for the final Pearson correlation score. 
 * computed the Pearson correlation for the user pair candidates that have Jaccard similarity >= 0.01 and at least three co-rated businesses. The predicting process is similar to User-based CF recommendation System.
 
-The below figure describes the methodology, data processing, and technologies which will be utilized in this hybrid recommendation system.
+## **Result:**
+
+This recommendation engine predicted user rating on certain business with an rmse of 1.17269 on test dataset and 1.17078 on blind dataset.
+
+
 
 
 
